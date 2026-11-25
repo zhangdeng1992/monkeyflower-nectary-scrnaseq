@@ -1,2 +1,3 @@
-# monkeyflower-nectary-scrnaseq
-猴面花蜜腺单细胞转录组分析。研究目标为鉴定蜜腺细胞类型及其标记基因，解析花蜜分泌相关基因在不同细胞群中的表达。
+# Single-Cell Transcriptomics of Monkeyflower Nectaries
+
+This project uses single-cell RNA sequencing to identify cell types in monkeyflower nectaries and their marker genes, and to examine how the expression of genes associated with nectar secretion varies across cell types.
